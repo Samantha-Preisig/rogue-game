@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.27">
+<file name="C:\Users\User\A2\project\src\main\java\rogue\Door.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\ImpossiblePositionException.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\InvalidDungeonException.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\InvalidMoveException.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\Item.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\NoSuchItemException.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\NotEnoughDoorsException.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\Player.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\Rogue.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\RogueParser.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\Room.java">
+</file>
+<file name="C:\Users\User\A2\project\src\main\java\rogue\WindowUI.java">
+</file>
+</checkstyle>
